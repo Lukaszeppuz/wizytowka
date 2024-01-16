@@ -1,0 +1,66 @@
+body {
+    background-color: #f0f0f0;
+    font-family: sans-serif; 
+}
+
+.container {
+    max-width: 50%;
+    margin-right: auto; 
+    margin-left: auto; 
+}
+
+.inner {
+    margin-top: 2rem;
+    padding: 1rem;
+    background-color: #ffffff;
+    border-radius: 0.5rem;
+    box-shadow: 4px 4px 16px 0px rgb(147, 148, 151);
+    margin-bottom: 2rem;
+}
+
+.name {
+    font-size: 1.875rem; 
+    font-weight: 600;
+}
+
+.position {
+    font-weight: 600;
+    color: #4a5568;
+}
+
+.divider {
+    margin-top: 1rem; 
+    margin-bottom: 1rem;
+}
+
+.summary {
+    font-size: 1.125rem; 
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+}
+
+p {
+    color: #2d3748;
+}
+
+.skills, .experience {
+    font-size: 1.125rem; 
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+    margin-top: 1.5rem;
+}
+
+.skills-list {
+    list-style-type: disc;
+    padding-left: 1.25rem;
+}
+
+.experiencel {
+    margin-bottom: 1rem;
+}
+
+.lista {
+    font-size: 1.125rem; 
+    font-weight: 600; 
+
+}
